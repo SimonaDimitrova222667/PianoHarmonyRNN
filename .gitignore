@@ -1,0 +1,8 @@
+# Ignore unversioned files
+*
+# Ignore unversioned directories
+pianoRNN/Lib
+pianoRNN/Scripts
+
+# Ignore specific files
+
